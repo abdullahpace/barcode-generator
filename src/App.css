@@ -1,0 +1,10 @@
+.barcode-height svg {
+  height: 80px;
+}
+.modal-content {
+  padding: 10px;
+  background-color: rgb(243, 228, 228);
+}
+.modal-content .card {
+  padding: 10px;
+}
