@@ -8,3 +8,22 @@
 .modal-content .card {
   padding: 10px;
 }
+/* .edit-invitation-modal .tab-content::-webkit-scrollbar {
+  width: 14px;
+}
+.edit-invitation-modal .tab-content {
+  scrollbar-width: thin;
+  scrollbar-color: grey lightgrey;
+}
+
+.edit-invitation-modal .tab-content::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+.edit-invitation-modal .tab-content::-webkit-scrollbar-thumb {
+  background: lightgray;
+  border-radius: 10px;
+}
+.edit-invitation-modal .tab-content::-webkit-scrollbar-thumb:hover {
+  background: #a59d9d;
+} */
